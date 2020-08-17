@@ -35,6 +35,8 @@
      noteexp6=9/12/2020 3:00:00 AM&
      notecode7=TSYSMAINT1&
      noteexp7=9/12/2020 3:00:00 AM&
+     noteepay=Y&
+     notecashier=Y&
      notecnt=7&
      filterdata=<filters><filter><filter_code>B20FQ</filter_code><filter_desc>FALL 2020</filter_desc><order>A</order><is_default>N</is_default></filter><filter><filter_code>B202Q</filter_code><filter_desc>SUMMER 2020</filter_desc><order>B</order><is_default>N</is_default></filter><filter><filter_code>B20SQ</filter_code><filter_desc>SPRING 2020</filter_desc><order>C</order><is_default>N</is_default></filter><filter><filter_code>B20WQ</filter_code><filter_desc>WINTER 2020</filter_desc><order>D</order><is_default>N</is_default></filter><filter><filter_code>B19FQ</filter_code><filter_desc>FALL 2019</filter_desc><order>E</order><is_defa
 01:54:26 AM: ult>N</is_default></filter><filter><filter_code>B192Q</filter_code><filter_desc>SUMMER 2019</filter_desc><order>F</order><is_default>N</is_default></filter><filter><filter_code>B19SQ</filter_code><filter_desc>SPRING 2019</filter_desc><order>G</order><is_default>N</is_default></filter><filter><filter_code>B19WQ</filter_code><filter_desc>WINTER 2019</filter_desc><order>H</order><is_default>N</is_default></filter><filter><filter_code>B18FQ</filter_code><filter_desc>FALL 2018</filter_desc><order>I</order><is_default>N</is_default></filter></filters></cashnet>
