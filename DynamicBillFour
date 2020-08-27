@@ -1,0 +1,10 @@
+<cashnet>result=0&amp;
+lname=Ryan&amp;
+fname=Hero&amp;
+custcode=MS01400982&amp;
+custotherdata=<dynamic_bill><person><studentID>B01236837</studentID><name>Berry Sykes</name></person><acct_sum><sum_line><sum_desc>Previous Term Balance</sum_desc><sum_amt>462.7</sum_amt></sum_line><sum_line><sum_desc>Current Term Balance</sum_desc><sum_amt>0</sum_amt></sum_line><sum_line><sum_desc>Current Term Pending Financial Aid</sum_desc><sum_amt>0</sum_amt></sum_line><sum_line><sum_desc>Future Term Balance</sum_desc><sum_amt>0</sum_amt></sum_line><sum_line><sum_desc>Total Balance</sum_desc><sum_amt>462.7</sum_amt></sum_line></acct_sum><section name="previous_term"><acct_detl><term>201910</term><term_desc>Fall 2018</term_desc><detail_code>H600</detail_code><description>Lease Buy-out</description><charge>425</charge><credit></credit></acct_detl><acct_detl><term>201910</term><term_desc>Fall 2018</term_desc><detail_code>M115</detail_code><description>Late Payment Fee</description><charge>30</charge><credit></credit></acct_detl><acct_detl><term>201910</term><term_desc>Fall 2018</term_desc><detail_code>M116</detail_code><description>FCS Collection Cost Fee</description><charge>7.7</charge><credit></credit></acct_detl></section><section name="current_term"></section><section name="future_term"></section><section name="pending_aid"></section><section name="future_aid"></section><section name="course_schedule"></section><section name="future_course_schedule"></section></dynamic_bill>&amp;
+itemcode=MOBILE01&amp;
+balance=0&amp;
+itemcode2=MOBILE02&amp;
+balance2=0&amp;
+itemcnt=2</cashnet>
